@@ -1,8 +1,8 @@
 ## Hello World 
 
-I love building creative projects and solving real-world problems.
+_I love building creative projects and solving real-world problems.
 <br> What sets me apart from other student developers is my focus on writing strongly typed, robust, and secure code.
-<br> I’m passionate beyond your imagination for building software that is robust, reliable and safe.
+<br> I’m passionate beyond your imagination for building software that is robust, reliable and safe._
 
 ## I Frequently Build With 
 
