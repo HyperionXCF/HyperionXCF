@@ -1,7 +1,7 @@
 ## Frequently Used Tech  
 
-**C++** - Intermediate 
-**Python** - Intermediate+ 
-**JS** - Basic 
-**React** - Basic
+**C++** - Intermediate /n
+**Python** - Intermediate+ /n
+**JS** - Basic /n
+**React** - Basic /n
 **Java** - Intermediate
