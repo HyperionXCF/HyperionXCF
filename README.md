@@ -15,6 +15,6 @@ I love building creative projects and solving real-world problems.
 
 ## GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=HyperionXCF&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
