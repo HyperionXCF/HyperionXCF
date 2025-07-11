@@ -1,4 +1,4 @@
 ## Frequently Used Tech  
 <br> 
-> :Buttons
-> > :Button label=GitHub, url=https://github.com
+<a href="https://example.com" style="display:inline-block;padding:8px 16px;background-color:#4CAF50;color:white;text-decoration:none;border-radius:4px;">Click Me</a>
+
