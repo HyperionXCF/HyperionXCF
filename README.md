@@ -1,7 +1,3 @@
 ## Frequently Used Tech  
-
-**C++** - Intermediate \n
-**Python** - Intermediate+ \n
-**JS** - Basic \n
-**React** - Basic \n
-**Java** - Intermediate
+<br> 
+> > :Button label=GitHub, url=https://github.com
