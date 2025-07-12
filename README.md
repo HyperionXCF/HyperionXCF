@@ -1,4 +1,4 @@
-## Wassup ? I'm Yash !
+## Wassup ? I'm Yash 👾
 
 _I love building creative projects and solving real-world problems.
 <br> What sets me apart from other student developers is my focus on writing strongly typed, robust, and secure code.
