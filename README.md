@@ -6,6 +6,7 @@ _I love building creative projects and solving real-world problems.
 
 _Besides Coding,
 I Love creating electronic music & digital art._
+_I  am well versed with FLStudio & Music Theory._
 
 ## Primary Tools 
 
