@@ -1,12 +1,7 @@
 ## Wassup ? I'm Yash 👾
-
-_I love building creative projects and solving real-world problems.
-<br> my focus on writing strongly typed, robust, and secure code is what sets me apart.
-<br> I’m passionate, beyond your imagination for building software that is robust, reliable and safe._
-
-_Besides Coding,
-I Love creating electronic music & digital art._
-_I  am well versed with FLStudio & Music Theory._
+- I love Programming since it allows be to combine both logic and creativity
+- I created music too!
+  
 <br><br>
 [![Listen to My Trackfolio](https://img.shields.io/badge/🎧%20Listen-Trackfolio-black?style=for-the-badge&logo=music&logoColor=white)](https://hypefolio.netlify.app/)
 
