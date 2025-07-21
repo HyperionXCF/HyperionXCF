@@ -1,7 +1,5 @@
 ## Wassup ? I'm Yash 👾
-- I love Programming since it allows be to combine both logic and creativity
-- I created music too!
-  
+
 <br><br>
 [![Listen to My Trackfolio](https://img.shields.io/badge/🎧%20Listen-Trackfolio-black?style=for-the-badge&logo=music&logoColor=white)](https://hypefolio.netlify.app/)
 
