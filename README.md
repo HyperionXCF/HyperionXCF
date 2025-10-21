@@ -1,4 +1,4 @@
-Hi I'm Yash Sonalekar & I'm Working at the intersection of Applied AI & Backend Development.
+Hi I'm Yash Sonalekar & I Aspire to work at the intersection of Applied AI & Backend Development.
 <br>
 Technologies I'm learning and working with : 
 <br>
